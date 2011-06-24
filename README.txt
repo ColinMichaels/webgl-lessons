@@ -1,3 +1,7 @@
+Anyone that may run across this.  This is my WebGl playground while I'm learning and practicing the tutorials.  You can find all the original information from the creator at the links below.  Feel free to poke around at my changes but really this is just me playing around.    
+
+-Colin Michaels
+
 Some lessons in WebGL
 ---------------------
 
